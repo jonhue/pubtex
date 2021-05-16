@@ -31,6 +31,8 @@ You also get this nice front page for free :)
 
 ### Options
 
+| Name          | Description                                                                | Default     |
+| ------------- | -------------------------------------------------------------------------- | ----------- |
 | `deploy_key`  | Deploy key used to deploy to GitHub Pages                                  |             |
 | `files`       | Space-separated list of files that should be compiled                      |             |
 | `handouts`    | Space-separated list of Beamer files that handouts should be generated for |             |
