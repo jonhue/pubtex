@@ -1,5 +1,5 @@
 ---
-layout: primer_without_heading
+layout: pubtex
 title: PubTeX
 ---
 
