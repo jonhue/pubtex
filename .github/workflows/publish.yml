@@ -1,4 +1,4 @@
-name: Publishh
+name: Publish
 
 on:
   push:
