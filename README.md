@@ -5,7 +5,7 @@ title: PubTeX
 
 # PubTeX
 
-This is a template for publicly hosting LaTeX files with GitHub actions.
+This is a template for publicly hosting LaTeX files with GitHub actions. 
 
 It roughly works as follows:
 
