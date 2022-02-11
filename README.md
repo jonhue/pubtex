@@ -5,7 +5,7 @@ title: PubTeX
 
 # PubTeX
 
-This is a template for publicly hosting LaTeX files with GitHub actions. 
+This is a template for publicly hosting LaTeX files with GitHub actions.
 
 It roughly works as follows:
 
@@ -23,7 +23,7 @@ You also get this nice front page for free :)
 
 ### Usage
 
-1. [Use this template](https://github.com/jonhue/pubtex/generate)
+1. [Use this template](https://github.com/jonhue/pubtex/generate) (you only need to include the `main` branch)
 2. List all `.tex` files you want to compile in `.github/workflows/publish.yml` under the `files` option
 3. If you want to generate handouts for some Beamer slides, list those files under the `handouts` option
 4. [Create SSH deploy key](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key)
